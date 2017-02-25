@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         for (int i=0;i<10;i++){
             Log.e("log","喵喵喵?");
+            Log.e("log","滑稽斩");
         }
     }
 }
